@@ -1,0 +1,11 @@
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.csprojAssemblyReference.cache
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.AssemblyInfoInputs.cache
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.AssemblyInfo.cs
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/bin/Debug/netcoreapp2.1/Mod1Lab2.deps.json
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/bin/Debug/netcoreapp2.1/Mod1Lab2.runtimeconfig.json
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/bin/Debug/netcoreapp2.1/Mod1Lab2.runtimeconfig.dev.json
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/bin/Debug/netcoreapp2.1/Mod1Lab2.dll
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/bin/Debug/netcoreapp2.1/Mod1Lab2.pdb
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.dll
+/home/altrunox/Documents/DEV204.2x/Module1Lab2/Mod1Lab2/obj/Debug/netcoreapp2.1/Mod1Lab2.pdb
