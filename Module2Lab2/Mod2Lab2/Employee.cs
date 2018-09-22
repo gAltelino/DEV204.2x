@@ -1,6 +1,6 @@
-namespace Mod2Lab1
+namespace Mod2Lab2
 {
-    public abstract class Employee
+    public class Employee
     {
         private string employeeName;
         private double employeeBaseSalary;
@@ -52,8 +52,9 @@ namespace Mod2Lab1
             return this.ID + " " + this.Name;
         }
 
-        public virtual string EmployeeStatus(){
-            return "";
+        public virtual string EmployeeStatus()
+        {
+            return this.toString() + " is in the company's system";
         }
 
     }
